@@ -1,0 +1,22 @@
+Concept -> Loaded model of lucy in unity
+
+Descrption -> We can load the 3-d model of our model required on specified image target.
+	      
+              first follow the video procedure and set the settng of unity , also create account
+
+		vuforia . load a specified image target. 
+		
+		download the lucy model from this drive link.
+
+		https://drive.google.com/drive/folders/1KK8YgWj0QCz1sAEoAzdjw-NW9kz36ogd
+
+
+		after downloading this zip file. unzip this and then
+
+		add the hole "C2W" folder in our Assets (unity).
+
+Note - > after this step we can see out lucy loaded on image target.(try to keep image target - in contrast color).
+
+Output - > 
+		
+		
